@@ -5,3 +5,4 @@ Git tracks changes of files.
 dev
 greating a new branch is quick AND simple
 dev dev
+master
